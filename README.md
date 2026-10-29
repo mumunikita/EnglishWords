@@ -70,7 +70,7 @@ Android-приложение для изучения английских сло
 
 ## Установка из релиза
 
-1. Скачайте готовый APK файл из раздела [**Releases**](https://github.com/mumunikita/EnglishWords/releases/latest]:
+1. Скачайте готовый APK файл из раздела [**Releases**](https://github.com/mumunikita/EnglishWords/releases/latest):
 2. На телефоне разрешите установку приложений из источника, откуда открываете APK
 3. Откройте скачанный `.apk` и нажмите **«Установить»**.
 4. Запустите приложение.
